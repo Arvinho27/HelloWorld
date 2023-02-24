@@ -1,4 +1,6 @@
 public class Utils {
 
-    System.out.print("Utils");
+    public static void test(){
+        System.out.print("Utils");
+    }
 }
